@@ -2,6 +2,9 @@
 
 Ray tracing in python just for fun!
 
+<img src=https://user-images.githubusercontent.com/1210722/75233032-8cde2d00-57fb-11ea-9430-1066078d896e.gif width=50%>
+
+
 # Requirement
 
 * PyGame
